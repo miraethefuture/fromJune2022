@@ -1,0 +1,22 @@
+/* 
+  SpeechRecognizerDefault.strings
+  MobileVoiceRecoLibraryIphone
+
+  Created by KimKyungmin on 13. 10. 22..
+  Copyright (c) 2013 Daum Communications Corp. All rights reserved.
+*/
+
+/* default tip strings */
+"tipDefault"                = "단어를 끊지 말고 자연스럽게 말해주세요.";
+"tipStopSpeech"             = "현재까지 입력된 검색어를 바로 검색하시려면 버튼을 눌러주세요.";
+"tipNetworkError"           = "잠시 후 다시 시도해주세요.";
+
+/* default guide strings */
+"guideDefault"              = "검색어를 말해주세요.";
+"guideRecognitionFail"      = "죄송해요. 인식하지 못했어요.";
+"guideSuggest"              = "혹시 아래와 같은 내용을 말씀하셨나요?";
+"guideNetworkError"         = "네트워크 연결이 불안정해요.";
+"guideMicError"             = "음성 검색 기능은 마이크가 필요해요.\n마이크 연결 후 다시 실행해 주세요.";
+
+/* default recording permission guide alert message strings */
+"guideRecordingPermission"  = "마이크 기능을 사용하시려면\n[설정 > 개인정보보호 > 마이크]에서\n앱의 접근을 허용해야 합니다.";
