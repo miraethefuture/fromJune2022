@@ -1,6 +1,0 @@
-framework module KakaoNewtoneSpeech {
-  umbrella header "KakaoNewtoneSpeech.h"
-
-  export *
-  module * { export * }
-}
